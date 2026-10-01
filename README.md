@@ -9,7 +9,7 @@ I design, build and launch on-chain projects on **BlockDAG (chain 1404)** and EV
 | **[Reef](https://reefdex.fyi)** | Permissionless AMM DEX: pools, swaps, a 24-hour price oracle | [site repo](https://github.com/benjiprojects1404-maker/reef-dex-site) |
 | **[Nodal](https://nodaldex.fyi)** | DEX aggregator that routes each trade to the best source (0.15% disclosed fee) | [repo](https://github.com/benjiprojects1404-maker/nodal) |
 | **[Handshake](https://handshakeotc.fyi)** | Peer-to-peer OTC escrow: both sides settle in one transaction, or nothing moves | [repo](https://github.com/benjiprojects1404-maker/handshake-otc-escrow) |
-| **NOCAP** | Community token with ownership renounced and a pool on Reef | [repo](https://github.com/benjiprojects1404-maker/nocap) |
+| **[NOCAP](https://nocap-umber-mu.vercel.app)** | Community token with ownership renounced and a pool on Reef, liquidity time-locked | [repo](https://github.com/benjiprojects1404-maker/nocap) |
 
 Contracts are verified on the explorer where it supports them, and admin powers sit with a 2-of-2 hardware-wallet multisig. Everything is in public beta and not yet independently audited, and each project says so.
 
