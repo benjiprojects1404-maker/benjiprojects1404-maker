@@ -17,4 +17,4 @@ Contracts are verified on the explorer where it supports them, and admin powers 
 
 Planning a token or DeFi project on BlockDAG or another EVM chain? I build complete launches: token, liquidity pool and lock, presale with refund fallback, airdrop with an on-chain snapshot, multisig setup, verified source and a plain-spoken project site. You keep your own keys and funds throughout.
 
-**Prices and details:** https://benjiprojects1404-services.pages.dev · Telegram [@benjiprojects1404](https://t.me/benjiprojects1404)
+**Prices and details:** https://benjiprojects1404-services.pages.dev
